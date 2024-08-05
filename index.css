@@ -1,0 +1,39 @@
+.header {
+    background-color: #f8f9fa; /* Light gray background */
+    padding: 10px 0;
+    border-bottom: 1px solid #e7e7e7; /* Subtle border at the bottom */
+  }
+
+  .logo {
+    height: 50px; /* Fixed height for the logo */
+    margin-right: 10px;
+  }
+
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+
+ 
+
+  .navbar-brand img {
+    height: 80px; /* Adjust logo height */
+  }
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .navbar-title {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px; /* Adjust title font size */
+    font-weight: bold;
+  }
