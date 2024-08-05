@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Define the API endpoint
-    const apiEndpoint = 'hhttps://am-premier-server.onrender.com/customers'; // Replace with your API URL
+    const apiEndpoint = 'https://am-premier-server.onrender.com/customers'; // Replace with your API URL
   
     // Function to fetch data from the backend
     async function fetchData() {
